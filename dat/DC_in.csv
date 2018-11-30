@@ -1,0 +1,27 @@
+Name,Target Path,Icon Path,Working Directory,URL/LNK
+AISV,http://10.64.10.56/AdditionalInfoSheet/index.jsp,,,url
+APL Folder,\\swn01hnas1fs01\ITC\Departments\Approved Part List,,,lnk
+Avaya Tools,http://nrp-na.icallinc.com/avayatools/,,,url
+BrainScan,http://itcnet.west.com/global/operations/AttendedOperations/NAAttendedOperations/Brainscan,,,url
+Email Templates,http://itcnet.west.com/global/operations/AttendedOperations/NAAttendedOperations/Brainscan/callex/FormsChecklists/Forms/Email Templates.aspx,,,url
+Form Store,http://itcnet.west.com/global/operations/AttendedOperations/NAAttendedOperations/Brainscan/callex/Form Store/Forms/AllItems.aspx,,,url
+Forms-Checklist,http://itcnet.west.com/global/operations/AttendedOperations/NAAttendedOperations/Brainscan/callex/FormsChecklists/Forms/form.aspx,,,url
+Groupware,http://everest.icallinc.com/,,,url
+HCM,https://eclz.login.us2.oraclecloud.com/oam/server/obrareq.cgi?encquery%3Dk8OUmxbmFzuG%2BMY8tomumOFEXEUCkj4nGmsody2OTCttJYFc7ZiwDI3gDR8ZzDn6wpfKygOTr2rn1QEM%2B6BRTwzPRPQOQHZ0qeN%2Fxq81duB9tzMTzIIr2lPseSebUpMSW6Tpj5ZUQw2WAbmap%2Be5IvIp%2BswGmx8Clzk2rd3%2BeenwaVHOXz2YhYFhqVbNFxaQFSZnCUAK5zkMgTYe40Fg65h8USSqDbJCu34YsD%2BZqxlhHkyEkmWb2xCyJEWcdrfFEoUTH3BVVOZ7fWx9FexbPy8kRAdotOuvR1KWTKBBqvPnaV5W%2BkLpvgljhy9quLPxWgtCdPDJ2TUvFrVF3ID4JY9y4x6XhTUtHNE8%2FEG5Zv3QAGP6CYTXKc4go6y7leKbvq%2BsQa7vAiTGjt93JdIeJA73n6R2ucfj1G41U7EcTJeCi%2FI3FmukzfJlDZekusHTCs7%2FAdCwZNizHZAFAuyiDmUskf26L%2F%2Fh0kFTI4SVnTISvt2FJA0p0j7qo%2FIW50ZI%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2,,,url
+iCRM,https://icrm.icallinc.com/iCRMR/search/,,,url
+ICS,http://ics.intercall.com/ics,,,url
+Kronos,https://fedps.west.com/samlsso?spEntityID=KronosPunch,,,url
+LeaderView,http://www.leaderview.com/leaderview/operator.jsp,,,lnk
+LeaderView Chats,\\ygk01cfp01\Operations\Call Execution\Leader-View Chats,,,url
+LMS,https://iclearn.plateau.com/learning/user/ssoLogin.do,,,url
+NRP Tool,http://nrp-na.icallinc.com/nrp/index.php,,,url
+Online Passcode Administration,https://wus30045.us.intercall.com/passcodesus/,,,url
+QSR Webform,http://icukws01/qsr/qsr.aspx,,,url
+SalesForce,https://west-uni.my.salesforce.com,,,url
+Service Desk,http://servicedesk.west.com/,,,lnk
+Spectel,http://linux2359.icallinc.com/spectel/operations/brandingrequest,,,url
+Sticky Notes,%windir%\system32\StikyNot.exe,,,url
+Transcription Notification,http://everest.icallinc.com/operations/forms/EPCallTranscriptionNotificationForm/index.htm,,,lnk
+West Identity Manager,https://idm.west.com/,,,
+West Support Page,https://go.custhelp.com/,,,
+Xerox Printers,\\ygk01cfp01,,,
